@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritraj-23&show_icons=true&locale=en&layout=compact" alt="amritraj-23" /></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritraj-23&show_icons=true&locale=en" alt="amritraj-23" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amritraj-23&show_icons=true&locale=en" alt="amritraj-23" /></p>
